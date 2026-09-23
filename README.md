@@ -22,7 +22,7 @@ Browse **58 projects and resources, 5 skills and 108 scenarios**, with 14 record
 | See demos, apps and local models | Install and pick a skill | Find a task, edit a template, see the output |
 
 New here? [Give the install prompt to your agent](#install). Already installed? [Ask it to update](#update).
-[Update log](docs/updates/README.md)
+[Update log](docs/updates/README.md) · [Contributing](CONTRIBUTING.md)
 
 <a id="projects"></a>
 ## Projects

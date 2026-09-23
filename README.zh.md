@@ -22,7 +22,7 @@ Jev 负责选择、分类和评分，Agent 负责提供证据和执行。
 | 看 Demo、应用和本地模型 | 安装技能，按任务选择 | 找场景，改模板，看输入输出 |
 
 第一次来？[把安装提示词发给 Agent](#install)。已有安装？[让 Agent 更新](#update)。
-[更新记录](docs/updates/README.md)
+[更新记录](docs/updates/README.md) · [贡献指南](CONTRIBUTING.md#中文)
 
 <a id="projects"></a>
 ## 项目
