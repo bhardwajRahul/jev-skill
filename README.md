@@ -14,7 +14,7 @@
 
 <a id="overview"></a>
 Jev chooses, classifies and scores. Your agent supplies evidence and takes action.
-Browse **57 projects and resources, 5 skills and 108 scenarios**, with 14 recorded input/output pairs.
+Browse **58 projects and resources, 5 skills and 108 scenarios**, with 14 recorded input/output pairs.
 
 <a id="contents"></a>
 | [Projects](#projects) | [Skills](#skills) | [Examples](#catalog) |
@@ -91,6 +91,7 @@ Community demos and an illustrated guide. Click a preview for the original; thes
 | Browser | [WebMCP / WindTunnel](https://github.com/nekuda-ai/WindTunnel) | Website-tool selection and a published browser benchmark | Report |
 | Browser | [Stagehand + Jev](https://x.com/kylejeong/status/2101046888468553855) | Jev inside act / observe / extract primitives | Author post |
 | Browser | [Jev Browser Use](https://github.com/wy-coliney/jev-browser-use) | Codex owns typing and verification; Jev picks controls | README |
+| Research | [Jev Social](https://github.com/socai-io/jev-social) | Jev chooses bounded social-browser actions; SocAI executes in the user's logged-in Chrome and keeps source-linked evidence | README |
 | Desktop | [Jev Desktop](https://github.com/yikangy873-gif/jev-desktop) | Bounded controls in an existing Codex CUA runtime | README |
 | Agent | [Jev Codex Router](https://github.com/0xNatoshi/jev-codex-router) | Recommend a model tier per turn; inspect shadow mode | README |
 | Context | [winnow](https://github.com/GhalebDweikat/winnow) | Recoverable tool-output filtering and recall stubs | README |
