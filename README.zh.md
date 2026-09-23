@@ -14,7 +14,7 @@
 
 <a id="overview"></a>
 Jev 负责选择、分类和评分，Agent 负责提供证据和执行。
-这里有 **58 个项目与资料入口、5 个技能、108 个场景**，以及 14 组已记录的输入输出。
+这里有 **60 个项目与资料入口、5 个技能、108 个场景**，以及 14 组已记录的输入输出。
 
 <a id="contents"></a>
 | [项目](#projects) | [技能](#skills) | [用法](#catalog) |
@@ -103,6 +103,8 @@ Jev 负责选择、分类和评分，Agent 负责提供证据和执行。
 | Security | [jev-shield (caiovicentino)](https://github.com/caiovicentino/jev-shield) | MCP 语义筛查，不是安全边界 | README |
 | Data | [pg-jev](https://github.com/realZachi/pg-jev) | 语义 SQL 扩展，需要 plpython3u / 超级用户 | README |
 | Data | [jevql](https://github.com/kylemclaren/jevql) | CLI 语义判断加普通 Postgres 查询 | README |
+| Search | [jevsearch](https://github.com/kylemclaren/jevsearch) | shadcn ⌘K 站内搜索：先出关键词结果，再用一次 Jev 调用重排前 20 条 | README |
+| Search | [JevPDF](https://github.com/kylemclaren/jevpdf) | 用自己的话问 PDF，每行一个 Noul，高亮匹配的行 | README |
 | Research | [1kpapers](https://www.1kpapers.com/) | 论文浏览：生成模型写摘要，Jev 选主题 | 目录线索 |
 | Inbox | [500 / 1,500-email demos](https://madewithjev.com/builds/inbox-triage-1500-emails) | 批量邮件分类，吞吐量不代表准确率 | 目录线索 |
 | Content | [724-ad teardown](https://x.com/TheMattBerman/status/2100654891756589230) | 每条广告多维判断，再汇总对比 | 作者原帖 |
