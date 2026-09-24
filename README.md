@@ -14,7 +14,7 @@
 
 <a id="overview"></a>
 Jev chooses, classifies and scores. Your agent supplies evidence and takes action.
-Browse **60 projects and resources, 5 skills and 108 scenarios**, with 14 recorded input/output pairs.
+Browse **61 projects and resources, 5 skills and 108 scenarios**, with 14 recorded input/output pairs.
 
 <a id="contents"></a>
 | [Projects](#projects) | [Skills](#skills) | [Examples](#catalog) |
@@ -141,6 +141,7 @@ Community demos and an illustrated guide. Click a preview for the original; thes
 | MCP | [TypeSafe MCP](https://github.com/itsmostafa/typesafe-mcp) | Generic evaluate tool; TypeSafe or OpenRouter | README |
 | MCP | [Jev MCP (jkudish)](https://github.com/jkudish/jev-mcp) | Named classify, rerank, review and gate tools | README |
 | CLI | [SemDecide](https://github.com/sharziki/semdecide) | Semantic predicates and JSONL shell pipelines | README |
+| CLI | [Supercov](https://github.com/supercorp-ai/supercov) | Coverage, security and code quality for coding agents: Jev checks each source file so the agent knows what to fix first | README |
 | Skills | [jev-skill-gate](https://github.com/ShivamPansuriya/jev-skill-gate) | Select relevant skills; check what becomes hidden | README |
 | Cascade | [Jev + Kimi fraud experiment](https://madewithjev.com/) | Fast screening, then review uncertain email cases | Directory |
 | Learn | [TypeSafe AI Playground](https://github.com/TypeSafeAI/typesafe-playground) | Community playground; distinguish mock and live | README |

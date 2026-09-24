@@ -14,7 +14,7 @@
 
 <a id="overview"></a>
 Jev 负责选择、分类和评分，Agent 负责提供证据和执行。
-这里有 **60 个项目与资料入口、5 个技能、108 个场景**，以及 14 组已记录的输入输出。
+这里有 **61 个项目与资料入口、5 个技能、108 个场景**，以及 14 组已记录的输入输出。
 
 <a id="contents"></a>
 | [项目](#projects) | [技能](#skills) | [用法](#catalog) |
@@ -141,6 +141,7 @@ Jev 负责选择、分类和评分，Agent 负责提供证据和执行。
 | MCP | [TypeSafe MCP](https://github.com/itsmostafa/typesafe-mcp) | 通用 evaluate 工具，支持两种供应商 | README |
 | MCP | [Jev MCP (jkudish)](https://github.com/jkudish/jev-mcp) | 分类、重排、审查等命名工具 | README |
 | CLI | [SemDecide](https://github.com/sharziki/semdecide) | 语义谓词与 JSONL 管道 | README |
+| CLI | [Supercov](https://github.com/supercorp-ai/supercov) | 给编程 Agent 的测试覆盖率、安全与代码质量：Jev 检查每个源文件，Agent 就知道先修什么 | README |
 | Skills | [jev-skill-gate](https://github.com/ShivamPansuriya/jev-skill-gate) | 筛相关技能，检查被隐藏的能力 | README |
 | Cascade | [Jev + Kimi fraud experiment](https://madewithjev.com/) | 先快速筛查，再复核不确定邮件 | 目录线索 |
 | Learn | [TypeSafe AI Playground](https://github.com/TypeSafeAI/typesafe-playground) | 社区 Playground，区分模拟和真实调用 | README |
